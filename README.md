@@ -1,2 +1,1 @@
-# hello-world
-a new Repository
+I am a graduate student at Communication University of China.
